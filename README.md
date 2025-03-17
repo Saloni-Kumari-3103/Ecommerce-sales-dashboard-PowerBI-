@@ -1,6 +1,8 @@
 
 # 📊 E-commerce Sales Dashboard | Power BI
 
+![E-commerce Dashboard](dashboard.png)
+
 ## 🚀 Project Overview
 
 This **E-commerce Sales Dashboard** provides key insights into **sales, profit, customer behavior, and product performance** using **Power BI**. The dashboard is designed to help businesses understand **sales trends, customer preferences, and profitability** across different categories and regions.
